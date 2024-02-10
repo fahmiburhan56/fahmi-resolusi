@@ -3,5 +3,6 @@ RENCANA BELAJAR JAVASCRIP
   *Variable
   *Tipe Data
 -Melatih logic dan membuat website sederhana dengan javascript
--Semangat 
--Jangan lupa berdoa
+-Konsisten dalam belajar 
+-Jangan menyerah walaupun masih belum bisa 
+
