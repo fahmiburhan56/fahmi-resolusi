@@ -2,5 +2,6 @@ RENCANA BELAJAR JAVASCRIP
 -Mempelajari dasar javascrip
   *Variable
   *Tipe Data
-  *Perkondisian  
 -Melatih logic dan membuat website sederhana dengan javascript
+-Semangat 
+-Jangan lupa berdoa
