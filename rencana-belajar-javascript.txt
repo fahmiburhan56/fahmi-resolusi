@@ -4,3 +4,5 @@ RENCANA BELAJAR JAVASCRIP
   *Tipe Data
   *Perkondisian  
 -Melatih logic dan membuat website sederhana dengan javascript
+-Konsisten dalam belajar 
+-Jangan menyerah walaupun masih belum bisa 
