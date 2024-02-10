@@ -1,0 +1,3 @@
+RENCANA BELAJAR JAVASCRIP
+-Mempelajari dasar javascrip
+-Melatih logic dan membuat website sederhana dengan javascript
